@@ -8,9 +8,5 @@ Hello
 
 ## Local Developent
 1. Open index.htiml in your browser
+have fun
 
-sdfsedafd
-gsda
-
-have Fun
-sdafsd
